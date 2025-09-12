@@ -1,27 +1,60 @@
-.hero {
- padding: 3rem 1.2rem;
- border-radius: 14px;
+/* ====== Variables de color ====== */
+:root{
+ --accent: #F2C811;   /* Power BI */
+ --excel:  #217346;   /* Excel   */
+ --sql:    #0078D4;   /* SQL/Azure */
+ --ink:    #0F172A;   /* Texto principal */
+ --bg:     #F8FAFC;   /* Fondo */
+}
+/* Ocultar banner del tema */
+.page-header { display:none; }
+body { background: var(--bg); color: var(--ink); }
+/* ====== HERO ====== */
+.hero{
+ padding: 3rem 1.5rem;
+ border-radius: 16px;
  text-align: center;
- background: linear-gradient(135deg,#0d47a1,#1976d2,#42a5f5);
- color: #fff;
- box-shadow: 0 10px 24px rgba(0,0,0,.15);
+ color: #fff;                          /* Texto SIEMPRE blanco */
+ background:
+   linear-gradient(135deg, rgba(0,0,0,.18), rgba(0,0,0,.18)), /* overlay para contraste */
+   linear-gradient(135deg, var(--sql), var(--excel));
+ box-shadow: 0 14px 28px rgba(0,0,0,.16);
+ border: 2px solid rgba(255,255,255,.35);
 }
+.hero h1 { margin: .2rem 0 1rem 0; color: #fff; }
+.hero p  { color:#f5faff; }
+/* ====== Chips / Badges ====== */
 .badges a{
- display:inline-block; margin:.35rem .4rem; padding:.55rem .9rem;
- border-radius: 999px; text-decoration:none; border:1px solid rgba(255,255,255,.7);
- color:#fff; font-weight:600; backdrop-filter: blur(4px);
+ display:inline-block;
+ margin:.35rem .4rem; padding:.55rem 1rem;
+ border-radius:999px; text-decoration:none;
+ font-weight:600; backdrop-filter: blur(4px);
+ border:1px solid rgba(255,255,255,.6); color:#fff;
 }
-.grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(260px,1fr)); gap:16px; margin-top: 1rem;}
+.badges a:hover{ transform: translateY(-1px); }
+/* ====== Grid Cards ====== */
+.grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; margin-top: 1rem; }
 .card{
- background:#fff; border-radius:12px; padding:1rem; border:1px solid #e6e6e6;
- box-shadow:0 6px 14px rgba(0,0,0,.07);
+ background:#fff; border-radius:12px; padding:1rem 1.1rem;
+ border:1px solid #e6e6e6; box-shadow:0 8px 20px rgba(0,0,0,.06);
+ position:relative; overflow:hidden;
 }
-.card h3{ margin:.2rem 0 .6rem 0;}
-.card p{ color:#444; }
+.card::before{                /* barra superior acento Power BI */
+ content:""; position:absolute; left:0; top:0; height:4px; width:100%; background:var(--accent);
+}
+.card h3{ margin:.2rem 0 .6rem 0; color:#0b1220; }
+.card p { color:#475569; }
+/* ====== Botones ====== */
 .btn{
  display:inline-block; padding:.6rem 1rem; border-radius:10px; text-decoration:none;
- border:1px solid #0d47a1;
+ border:1px solid var(--sql);
 }
-.btn.primary{ background:#0d47a1; color:#fff; }
+.btn.primary{
+ background: var(--accent); color:#141414;      /* amarillo con texto oscuro = contraste */
+ border-color: #E0B90F;
+}
+.btn:hover{ filter:brightness(1.05); transform: translateY(-1px); }
+/* ====== Secciones & Footer ====== */
 .section { margin: 2.2rem 0; }
-footer { margin-top:2.5rem; font-size:.9rem; color:#666; text-align:center;}
+h2 { color:#0b1220; }
+footer { margin-top:2.5rem; font-size:.9rem; color:#667085; text-align:center; }
