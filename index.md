@@ -35,7 +35,7 @@ layout: default
       <h3>Dashboard de Ventas</h3>
       <p>Análisis por región, producto y canal. Incluye YoY y top 10.</p>
       <p>
-        <a class="btn primary" href="https://app.powerbi.com/view?r=LINK1](https://app.powerbi.com/view?r=eyJrIjoiN2U3YzYxNzItNmE4Ny00NTM0LTg5ZmEtOWJlMmYwMzdkMzhkIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9" target="_blank">Abrir en Power BI</a>
+        <a class="btn primary" href="https://app.powerbi.com/view?r=eyJrIjoiN2U3YzYxNzItNmE4Ny00NTM0LTg5ZmEtOWJlMmYwMzdkMzhkIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9" target="_blank">Abrir en Power BI</a>
         <a class="btn" href="/proyectos/ventas.md">Explicación</a>
       </p>
     </div>
