@@ -1,5 +1,8 @@
-
-<link rel="stylesheet" href="/assets/css/custom.css">
+---
+title: Portafolio de Edin
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 <div class="hero">
 <h1>Hola, soy Edin 👋</h1>
 <p>Data Analyst en progreso. Amo <b>Power BI</b>, <b>Excel/Power Query</b> y voy por <b>Python</b>. Aquí muestro lo que sé hacer.</p>
@@ -15,25 +18,25 @@
 <div class="grid">
 <div class="card">
 <h3>Dashboard de Ventas</h3>
-<p>Análisis por región, producto y canal. Incluye YoY, top 10 y alerta de quiebres.</p>
+<p>Análisis por región, producto y canal. Incluye YoY y top 10.</p>
 <p>
-<a class="btn primary" href="https://app.powerbi.com/view?r=LINK_PUBLICAR_EN_LA_WEB" target="_blank">Abrir en Power BI</a>
-<a class="btn" href="/proyectos/ventas.md">Leer explicación</a>
+<a class="btn primary" href="https://app.powerbi.com/view?r=LINK1" target="_blank">Abrir en Power BI</a>
+<a class="btn" href="/proyectos/ventas.md">Explicación</a>
 </p>
 </div>
 <div class="card">
-<h3>Atención al Contribuyente (SAT)</h3>
+<h3>Atención al Contribuyente</h3>
 <p>Métricas de satisfacción, tiempos de respuesta y volumen por modalidad.</p>
 <p>
-<a class="btn primary" href="https://app.powerbi.com/view?r=OTRO_LINK" target="_blank">Abrir en Power BI</a>
+<a class="btn primary" href="https://app.powerbi.com/view?r=LINK2" target="_blank">Abrir en Power BI</a>
 <a class="btn" href="/proyectos/atencion.md">Metodología</a>
 </p>
 </div>
 <div class="card">
 <h3>Control de Inventario</h3>
-<p>Power Query + modelado en Power BI. ABC, rotación y pronóstico simple.</p>
+<p>Power Query + modelado en Power BI. ABC y rotación.</p>
 <p>
-<a class="btn primary" href="https://app.powerbi.com/view?r=LINK" target="_blank">Abrir en Power BI</a>
+<a class="btn primary" href="https://app.powerbi.com/view?r=LINK3" target="_blank">Abrir en Power BI</a>
 <a class="btn" href="/proyectos/inventario.md">Notas técnicas</a>
 </p>
 </div>
@@ -42,16 +45,11 @@
 <div class="section">
 <h2>🛠️ Tech stack</h2>
 <ul>
-<li>Power BI (modelado DAX, medidas; automatización con Power Query)</li>
-<li>Excel avanzado (ETL con PQ, validaciones, reporting)</li>
-<li>SQL (consultas, JOINS, agregaciones)</li>
-<li>Python (en aprendizaje orientado a analítica)</li>
+<li>Power BI (DAX con medidas, no columnas)</li>
+<li>Excel/Power Query (ETL, validaciones)</li>
+<li>SQL (JOINs, agregaciones)</li>
+<li>Python (en aprendizaje)</li>
 </ul>
-</div>
-<div class="section">
-<h2>🧠 Sobre mí</h2>
-<p>Estudiante de Ingeniería en Sistemas. Experiencia creando dashboards y automatizando procesos en SAT.
- Me enfoco en claridad, datos limpios y KPIs que sirvan.</p>
 </div>
 <footer>
  © {{ site.time | date: '%Y' }} Edin Itzep — Hecho con GitHub Pages
