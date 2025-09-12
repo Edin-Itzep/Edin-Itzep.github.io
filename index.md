@@ -3,17 +3,11 @@ title: Portafolio de Edin
 layout: default
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/custom.css?v=3' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/custom.css?v=4' | relative_url }}">
 
 <div class="hero">
-  <h1>Hola, soy Edin 👋</h1>
-  <p>Data Analyst en progreso. Amo <b>Power BI</b>, <b>Excel/Power Query</b> y voy por <b>Python</b>. Aquí muestro lo que sé hacer.</p>
-  <div class="badges">
-    <a href="https://www.linkedin.com/tu-perfil" target="_blank">LinkedIn</a>
-    <a href="mailto:tu.correo@ejemplo.com" target="_blank">Email</a>
-    <a href="https://github.com/Edin-Itzep" target="_blank">GitHub</a>
-    <a href="/Edin-CV.pdf" target="_blank">Descargar CV</a>
-  </div>
+  <h1>👋 Hola, soy Edin</h1>
+  <p>Portafolio de proyectos en <b>Power BI</b>, <b>Excel</b>, <b>SQL</b> y más.</p>
 </div>
 
 <div class="section">
@@ -24,18 +18,19 @@ layout: default
     <div class="card">
       <h3>Grocery Shop – Dashboard de Ventas</h3>
       <p>Análisis de ventas por sucursal, crecimiento anual y productos más vendidos.</p>
-      <iframe
+      <iframe 
         title="GroceryShop"
-        width="100%" height="420"
-        src="TU_SRC_COMPLETO"
-        frameborder="0" allowfullscreen="true"></iframe>
+        width="100%" height="500"
+        src="https://app.powerbi.com/view?r=eyJrIjoiN2U3YzYxNzItNmE4Ny00NTM0LTg5ZmEtOWJlMmYwMzdkMzhkIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9"
+        frameborder="0" allowfullscreen="true">
+      </iframe>
     </div>
 
     <div class="card">
-      <h3>Dashboard de Ventas</h3>
+      <h3>Dashboard de Ventas Generales</h3>
       <p>Análisis por región, producto y canal. Incluye YoY y top 10.</p>
       <p>
-        <a class="btn primary" href="https://app.powerbi.com/view?r=eyJrIjoiN2U3YzYxNzItNmE4Ny00NTM0LTg5ZmEtOWJlMmYwMzdkMzhkIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9" target="_blank">Abrir en Power BI</a>
+        <a class="btn primary" href="https://app.powerbi.com/view?r=LINK1" target="_blank">Abrir en Power BI</a>
         <a class="btn" href="/proyectos/ventas.md">Explicación</a>
       </p>
     </div>
