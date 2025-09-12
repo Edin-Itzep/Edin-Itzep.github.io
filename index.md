@@ -16,9 +16,15 @@ layout: default
   </div>
 </div>
 
-<div class="section">
-  <h2>📊 Proyectos destacados</h2>
-  <div class="grid">
+<div class="card">
+  <h3>Grocery Shop – Dashboard de Ventas</h3>
+  <p>Análisis de ventas por sucursal, crecimiento anual y productos más vendidos.</p>
+  <iframe title="GroceryShop"
+          width="100%" height="400"
+          src="https://app.powerbi.com/view?r=eyJrIjoiN2U3YzYxNzItNmE4Ny00NTM0LTg5ZmEtOWJlMmYwMzdkMzhkIiwidCI6IjVm..."
+          frameborder="0"
+          allowFullScreen="true"></iframe>
+</div>
 
     <div class="card">
       <h3>Dashboard de Ventas</h3>
