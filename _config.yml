@@ -1,0 +1,5 @@
+title: Portafolio de Edin
+description: Proyectos de Power BI, automatización y análisis de datos
+theme: jekyll-theme-cayman
+plugins:
+ - jekyll-seo-tag
