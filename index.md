@@ -1,6 +1,4 @@
----
-layout: default
----
+
 <link rel="stylesheet" href="/assets/css/custom.css">
 <div class="hero">
 <h1>Hola, soy Edin 👋</h1>
