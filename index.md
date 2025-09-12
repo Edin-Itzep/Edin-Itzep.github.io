@@ -2,7 +2,7 @@
 title: Portafolio de Edin
 layout: default
 ---
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/custom.css?v=1' | relative_url }}">
 <div class="hero">
 <h1>Hola, soy Edin 👋</h1>
 <p>Data Analyst en progreso. Amo <b>Power BI</b>, <b>Excel/Power Query</b> y voy por <b>Python</b>. Aquí muestro lo que sé hacer.</p>
