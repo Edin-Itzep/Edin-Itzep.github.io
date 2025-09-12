@@ -1,0 +1,27 @@
+.hero {
+ padding: 3rem 1.2rem;
+ border-radius: 14px;
+ text-align: center;
+ background: linear-gradient(135deg,#0d47a1,#1976d2,#42a5f5);
+ color: #fff;
+ box-shadow: 0 10px 24px rgba(0,0,0,.15);
+}
+.badges a{
+ display:inline-block; margin:.35rem .4rem; padding:.55rem .9rem;
+ border-radius: 999px; text-decoration:none; border:1px solid rgba(255,255,255,.7);
+ color:#fff; font-weight:600; backdrop-filter: blur(4px);
+}
+.grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(260px,1fr)); gap:16px; margin-top: 1rem;}
+.card{
+ background:#fff; border-radius:12px; padding:1rem; border:1px solid #e6e6e6;
+ box-shadow:0 6px 14px rgba(0,0,0,.07);
+}
+.card h3{ margin:.2rem 0 .6rem 0;}
+.card p{ color:#444; }
+.btn{
+ display:inline-block; padding:.6rem 1rem; border-radius:10px; text-decoration:none;
+ border:1px solid #0d47a1;
+}
+.btn.primary{ background:#0d47a1; color:#fff; }
+.section { margin: 2.2rem 0; }
+footer { margin-top:2.5rem; font-size:.9rem; color:#666; text-align:center;}
