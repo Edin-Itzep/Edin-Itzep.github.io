@@ -28,7 +28,7 @@ layout: default
 <h3>Dashboard Engine Energy</h3>
 <p>Análisis de ventas 2024, 2025, 2026.</p>
 <p>
-<a class="btn primary" href="https://app.powerbi.com/view?r=eyJrIjoiMGFlZDJjNjktOWYzYS00OWM2LWI0ZWEtNWNhYmQyMjQwZTgxIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9" target="_blank">Abrir en Power BI</a>
+<a class="btn primary" href="https://app.powerbi.com/view?r=eyJrIjoiMGFlZDJjNjktOWYzYS00OWM2LWI0ZWEtNWNhYmQyMjQwZTgxIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9&pageName=dcc6111abf1254091091" target="_blank">Abrir en Power BI</a>
 <a class="btn" href="/proyectos/ventas.md">Explicación</a>
 </p>
 </div>
