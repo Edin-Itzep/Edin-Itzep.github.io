@@ -24,14 +24,17 @@ layout: default
    src="https://app.powerbi.com/view?r=eyJrIjoiN2U3YzYxNzItNmE4Ny00NTM0LTg5ZmEtOWJlMmYwMzdkMzhkIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9"
    frameborder="0" allowfullscreen="true"></iframe>
 </div>
-<div class="card">
-<h3>Dashboard Engine Energy</h3>
-<p>Análisis de ventas 2024, 2025, 2026.</p>
-<p>
-<a class="btn primary" href="https://app.powerbi.com/view?r=eyJrIjoiMGFlZDJjNjktOWYzYS00OWM2LWI0ZWEtNWNhYmQyMjQwZTgxIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9&pageName=dcc6111abf1254091091" target="_blank">Abrir en Power BI</a>
-<a class="btn" href="/proyectos/ventas.md">Explicación</a>
-</p>
+
+ <div class="card">
+<h3>Engine Energy – Dashboard de Ventas</h3>
+<p>Análisis de ventas 2024, 2025 y 2026, por sucursal, crecimiento anual y productos más vendidos.</p>
+<iframe
+   title="GroceryShop"
+   width="100%" height="500"
+   src="https://app.powerbi.com/view?r=eyJrIjoiMGFlZDJjNjktOWYzYS00OWM2LWI0ZWEtNWNhYmQyMjQwZTgxIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9&pageName=dcc6111abf1254091091"
+   frameborder="0" allowfullscreen="true"></iframe>
 </div>
+
 <div class="card">
 <h3>Atención al Contribuyente</h3>
 <p>Métricas de satisfacción, tiempos de respuesta y volumen por modalidad.</p>
