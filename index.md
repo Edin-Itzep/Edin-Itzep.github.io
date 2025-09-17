@@ -15,43 +15,39 @@ layout: default
 
   <div class="grid">
 
-    <div class="card">
-      <h3>Grocery Shop – Dashboard de Ventas</h3>
-      <p>Análisis de ventas por sucursal, crecimiento anual y productos más vendidos.</p>
-      <iframe 
-        title="GroceryShop"
-        width="100%" height="500"
-        src="https://app.powerbi.com/view?r=eyJrIjoiN2U3YzYxNzItNmE4Ny00NTM0LTg5ZmEtOWJlMmYwMzdkMzhkIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9"
-        frameborder="0" allowfullscreen="true">
-      </iframe>
-    </div>
-
-    <div class="card">
-      <h3>Dashboard Engine Energy</h3>
-      <p>Análisis de ventas 2024, 2025, 2026   .</p>
-      <p>
-        <a class="btn primary" href="https://app.powerbi.com/view?r=eyJrIjoiMGFlZDJjNjktOWYzYS00OWM2LWI0ZWEtNWNhYmQyMjQwZTgxIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9=LINK1" target="_blank">Abrir en Power BI</a>
-        <a class="btn" href="/proyectos/ventas.md">Explicación</a>
-      </p>
-    </div>
-
-    <div class="card">
-      <h3>Atención al Contribuyente</h3>
-      <p>Métricas de satisfacción, tiempos de respuesta y volumen por modalidad.</p>
-      <p>
-        <a class="btn primary" href="https://app.powerbi.com/view?r=LINK2" target="_blank">Abrir en Power BI</a>
-        <a class="btn" href="/proyectos/atencion.md">Metodología</a>
-      </p>
-    </div>
-
-    <div class="card">
-      <h3>Control de Inventario</h3>
-      <p>Power Query + modelado en Power BI. ABC y rotación.</p>
-      <p>
-        <a class="btn primary" href="https://app.powerbi.com/view?r=LINK3" target="_blank">Abrir en Power BI</a>
-        <a class="btn" href="/proyectos/inventario.md">Notas técnicas</a>
-      </p>
-    </div>
+   <div class="card">
+<h3>Grocery Shop – Dashboard de Ventas</h3>
+<p>Análisis de ventas por sucursal, crecimiento anual y productos más vendidos.</p>
+<iframe
+   title="GroceryShop"
+   width="100%" height="500"
+   src="https://app.powerbi.com/view?r=eyJrIjoiN2U3YzYxNzItNmE4Ny00NTM0LTg5ZmEtOWJlMmYwMzdkMzhkIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9"
+   frameborder="0" allowfullscreen="true"></iframe>
+</div>
+<div class="card">
+<h3>Dashboard Engine Energy</h3>
+<p>Análisis de ventas 2024, 2025, 2026.</p>
+<p>
+<a class="btn primary" href="https://app.powerbi.com/view?r=eyJrIjoiMGFlZDJjNjktOWYzYS00OWM2LWI0ZWEtNWNhYmQyMjQwZTgxIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9" target="_blank">Abrir en Power BI</a>
+<a class="btn" href="/proyectos/ventas.md">Explicación</a>
+</p>
+</div>
+<div class="card">
+<h3>Atención al Contribuyente</h3>
+<p>Métricas de satisfacción, tiempos de respuesta y volumen por modalidad.</p>
+<p>
+<a class="btn primary" href="https://app.powerbi.com/view?r=LINK2" target="_blank">Abrir en Power BI</a>
+<a class="btn" href="/proyectos/atencion.md">Metodología</a>
+</p>
+</div>
+<div class="card">
+<h3>Control de Inventario</h3>
+<p>Power Query + modelado en Power BI. ABC y rotación.</p>
+<p>
+<a class="btn primary" href="https://app.powerbi.com/view?r=LINK3" target="_blank">Abrir en Power BI</a>
+<a class="btn" href="/proyectos/inventario.md">Notas técnicas</a>
+</p>
+</div>
 
   </div>
 </div>
