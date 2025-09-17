@@ -35,14 +35,17 @@ layout: default
    frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
-<div class="card">
-<h3>Atención al Contribuyente</h3>
-<p>Métricas de satisfacción, tiempos de respuesta y volumen por modalidad.</p>
-<p>
-<a class="btn primary" href="https://app.powerbi.com/view?r=LINK2" target="_blank">Abrir en Power BI</a>
-<a class="btn" href="/proyectos/atencion.md">Metodología</a>
-</p>
+ <div class="card">
+<h3>Engine Energy – Dashboard de Ventas</h3>
+<p>Análisis de ventas 2024, 2025 y 2026, por sucursal, crecimiento anual y productos más vendidos.</p>
+<iframe
+   title="GroceryShop"
+   width="100%" height="500"
+   src="https://app.powerbi.com/view?r=eyJrIjoiYmE0OWMwOWYtNTk2My00ZTE2LWI2OTgtZWFiNmE1YWQyMTViIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9"
+   frameborder="0" allowfullscreen="true"></iframe>
 </div>
+
+
 <div class="card">
 <h3>Control de Inventario</h3>
 <p>Power Query + modelado en Power BI. ABC y rotación.</p>
