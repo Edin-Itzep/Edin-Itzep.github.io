@@ -29,7 +29,7 @@ layout: default
 <h3>Sales Report – Dashboard de Ventas</h3>
 <p>Análisis de ventas, Power Query, Medidas DAX</p>
 <iframe
-   title="GroceryShop"
+   title="Sales Report"
    width="100%" height="500"
    src="https://app.powerbi.com/view?r=eyJrIjoiMGFlZDJjNjktOWYzYS00OWM2LWI0ZWEtNWNhYmQyMjQwZTgxIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9&pageName=dcc6111abf1254091091"
    frameborder="0" allowfullscreen="true"></iframe>
@@ -39,20 +39,21 @@ layout: default
 <h3>Engine Energy – Dashboard de Ventas</h3>
 <p>Análisis de ventas 2024, 2025 y 2026, por sucursal, crecimiento anual y productos más vendidos.</p>
 <iframe
-   title="GroceryShop"
+   title="Engine Energy"
    width="100%" height="500"
    src="https://app.powerbi.com/view?r=eyJrIjoiYmE0OWMwOWYtNTk2My00ZTE2LWI2OTgtZWFiNmE1YWQyMTViIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9"
    frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 
-<div class="card">
-<h3>Control de Inventario</h3>
-<p>Power Query + modelado en Power BI. ABC y rotación.</p>
-<p>
-<a class="btn primary" href="https://app.powerbi.com/view?r=LINK3" target="_blank">Abrir en Power BI</a>
-<a class="btn" href="/proyectos/inventario.md">Notas técnicas</a>
-</p>
+ <div class="card">
+<h3>Venta de Inmuebles </h3>
+<p>Análisis de ventas de inmuebles, segmentando ubicaciones, inmuebles y vendedores.</p>
+<iframe
+   title="Dashboard Inmuebles"
+   width="100%" height="500"
+   src="https://app.powerbi.com/view?r=eyJrIjoiNzE1NDJkZjEtMjAzZi00YjA0LWIzM2EtMDNiYzZhZjM2OTdhIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9"
+   frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
   </div>
