@@ -33,7 +33,7 @@ body { background: var(--bg); color: var(--ink); }
 }
 .badges a:hover{ transform: translateY(-1px); }
 /* ====== Grid Cards ====== */
-.grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; margin-top: 1rem; }
+.grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(420px,1fr)); gap:16px; margin-top: 1rem; }
 .card{
  background:#fff; border-radius:12px; padding:1rem 1.1rem;
  border:1px solid #e6e6e6; box-shadow:0 8px 20px rgba(0,0,0,.06);
