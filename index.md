@@ -26,8 +26,8 @@ layout: default
 </div>
 
  <div class="card">
-<h3>Engine Energy – Dashboard de Ventas</h3>
-<p>Análisis de ventas 2024, 2025 y 2026, por sucursal, crecimiento anual y productos más vendidos.</p>
+<h3>Sales Report – Dashboard de Ventas</h3>
+<p>Análisis de ventas, Power Query, Medidas DAX</p>
 <iframe
    title="GroceryShop"
    width="100%" height="500"
