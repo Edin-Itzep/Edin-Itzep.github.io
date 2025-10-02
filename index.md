@@ -11,7 +11,7 @@ layout: default
 </div>
 
 <div class="section">
-  <h2>📊 Proyectos destacados</h2>
+  <h2>📊 Proyectos Relevantes</h2>
 
   <div class="grid">
 
