@@ -15,7 +15,7 @@ layout: default
 
   <div class="grid">
 
-    <div class="card" style="border: 1px solid #2e75b6;">
+    <div class="card card-tableau" style="border: 1px solid #2e75b6;">
       <h3>Global E-commerce – Strategic Dashboard</h3>
       <p>Análisis integral de +500k registros. <b>Stack: Python (Limpieza), SQL (Estructura) y Tableau (Visualización).</b> Identificación de KPIs estratégicos y tendencias globales.</p>
       
