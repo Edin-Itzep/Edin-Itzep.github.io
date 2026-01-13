@@ -7,65 +7,45 @@ layout: default
 
 <div class="hero">
   <h1>👋 Hola, soy Edin</h1>
-  <p>Portafolio de proyectos en <b>Power BI</b>, <b>Excel</b>, <b>SQL</b> y más.</p>
+  <p>Portafolio de proyectos en <b>Tableau</b>, <b>Power BI</b>, <b>Python</b> y <b>SQL</b>.</p>
 </div>
 
 <div class="section">
   <h2>📊 Proyectos Relevantes</h2>
 
   <div class="grid">
+    
+    <div class="card" style="border: 2px solid #2e75b6;"> <h3>Global E-commerce Strategic Dashboard</h3>
+      <p><b>Stack: Python, SQL, Tableau.</b> Análisis integral de +500k registros. Limpieza masiva de datos y visualización de KPIs estratégicos globales.</p>
+      
+      <iframe
+        title="Global E-commerce Dashboard"
+        width="100%" height="500"
+        src="TU_URL_DE_TABLEAU_AQUÍ?:showVizHome=no&:embed=true"
+        frameborder="0" allowfullscreen="true"></iframe>
+      
+      <div style="margin-top: 10px;">
+        <a href="LINK_A_TU_REPOSITORIO_GITHUB" target="_blank" style="font-size: 0.9em; color: #2e75b6; text-decoration: none;">📂 Ver código Python/SQL en GitHub</a>
+      </div>
+    </div>
 
-   <div class="card">
-<h3>Grocery Shop – Dashboard de Ventas</h3>
-<p>Análisis de ventas por sucursal, crecimiento anual y productos más vendidos.</p>
-<iframe
-   title="GroceryShop"
-   width="100%" height="500"
-   src="https://app.powerbi.com/view?r=eyJrIjoiN2U3YzYxNzItNmE4Ny00NTM0LTg5ZmEtOWJlMmYwMzdkMzhkIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9"
-   frameborder="0" allowfullscreen="true"></iframe>
-</div>
-
- <div class="card">
-<h3>Sales Report – Dashboard de Ventas</h3>
-<p>Análisis de ventas, Power Query, Medidas DAX</p>
-<iframe
-   title="Sales Report"
-   width="100%" height="500"
-   src="https://app.powerbi.com/view?r=eyJrIjoiMGFlZDJjNjktOWYzYS00OWM2LWI0ZWEtNWNhYmQyMjQwZTgxIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9&pageName=dcc6111abf1254091091"
-   frameborder="0" allowfullscreen="true"></iframe>
-</div>
-
- <div class="card">
-<h3>Engine Energy – Dashboard de Ventas</h3>
-<p>Análisis de ventas 2024, 2025 y 2026, por sucursal, crecimiento anual y productos más vendidos.</p>
-<iframe
-   title="Engine Energy"
-   width="100%" height="500"
-   src="https://app.powerbi.com/view?r=eyJrIjoiYmE0OWMwOWYtNTk2My00ZTE2LWI2OTgtZWFiNmE1YWQyMTViIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9"
-   frameborder="0" allowfullscreen="true"></iframe>
-</div>
-
-
- <div class="card">
-<h3>Venta de Inmuebles </h3>
-<p>Análisis de ventas de inmuebles, segmentando ubicaciones, inmuebles y vendedores.</p>
-<iframe
-   title="Dashboard Inmuebles"
-   width="100%" height="500"
-   src="https://app.powerbi.com/view?r=eyJrIjoiNzE1NDJkZjEtMjAzZi00YjA0LWIzM2EtMDNiYzZhZjM2OTdhIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9"
-   frameborder="0" allowfullscreen="true"></iframe>
-</div>
-
-  </div>
+    <div class="card">
+      <h3>Grocery Shop – Dashboard de Ventas</h3>
+      <p>Análisis de ventas por sucursal, crecimiento anual y productos más vendidos.</p>
+      <iframe title="GroceryShop" width="100%" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiN2U3YzYxNzItNmE4Ny00NTM0LTg5ZmEtOWJlMmYwMzdkMzhkIiwidCI6IjVmNTNiNGNlLTYzZDQtNGVlOC04OGQyLTIyZjBiMmQ0YjI3YSIsImMiOjR9" frameborder="0" allowfullscreen="true"></iframe>
+    </div>
+    
+    </div>
 </div>
 
 <div class="section">
   <h2>🛠️ Tech stack</h2>
   <ul>
-    <li>Power BI (DAX con medidas, no columnas)</li>
-    <li>Excel/Power Query (ETL, validaciones)</li>
-    <li>SQL (JOINs, agregaciones)</li>
-    <li>Python (en aprendizaje)</li>
+    <li><b>Tableau:</b> Storytelling y dashboards interactivos avanzados.</li>
+    <li><b>Power BI:</b> DAX avanzado y modelado de datos.</li>
+    <li><b>SQL:</b> Diseño de bases de datos, JOINs y consultas complejas.</li>
+    <li><b>Python:</b> Procesamiento y limpieza de datos (Pandas, NumPy).</li>
+    <li><b>Excel/Power Query:</b> ETL y validación de datos.</li>
   </ul>
 </div>
 
