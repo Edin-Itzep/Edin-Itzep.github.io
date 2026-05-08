@@ -7,7 +7,7 @@ layout: default
 
 <div class="hero">
   <h1>👋 Hola, soy Edin</h1>
-  <p>Portafolio de proyectos en <b>Tableau</b>, <b>Power BI</b>, <b>Python</b> y <b>SQL</b>.</p>
+  <p>Portafolio de proyectos en <b>Tableau</b>, <b>Power BI</b>, <b>Python</b>, <b>R Language</b> y <b>SQL</b>.</p>
 </div>
 
 <div class="section">
@@ -58,14 +58,14 @@ layout: default
 
     <div class="card" style="border: 2px solid #276b3b; background-color: #f9fbf9; margin-bottom: 20px;">
     
-  <div class="card" style="border: 2px solid #276b3b; background-color: #f9fbf9; margin-bottom: 20px; position: relative;">
+  <div class="card" style="border: 2px solid #276b3b; background-color: #f0f7ff; margin-bottom: 20px; position: relative;">
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 15px;">
-    <h3 style="color: #276b3b; margin: 0;">Banking Churn – Análisis Estadístico con R</h3>
-    <span style="background-color: #276b3b; color: white; padding: 2px 10px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">R Language</span>
+    <h3 style="color: #1f618d; margin: 0;">Banking Churn – Análisis Estadístico con R</h3>
+    <span style="background-color: #1f618d; color: white; padding: 2px 10px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">R Language</span>
   </div>
   
-  <p style="padding: 0 15px; margin: 5px 0;">Análisis exploratorio de datos (EDA) profundo para detectar patrones de abandono en clientes bancarios. 
-  <b>Stack: R (Tidyverse), R Markdown y Estadística Descriptiva.</b></p>
+  <p style="padding: 0 15px; color: #34495e; margin: 5px 0;">Análisis exploratorio de datos (EDA) profundo para detectar patrones de abandono en clientes bancarios. 
+  <b style="color: #1f618d">Stack: R (Tidyverse), R Markdown y Estadística Descriptiva.</b></p>
   
   <div style="position: relative; overflow: hidden; padding-top: 60%; border: 1px solid #ddd; margin: 10px 15px; border-radius: 8px; background: white;">
     <iframe src="https://edin-itzep.github.io/Data_Analysis_with_R/Customer_Churn_Analysis.html" 
@@ -117,7 +117,7 @@ layout: default
     <li><b>Tableau:</b> Storytelling y visualización de datos compleja.</li>
     <li><b>Power BI:</b> Modelado de datos y medidas DAX avanzadas.</li>
     <li><b>SQL:</b> Consultas, agregaciones y estructuración de bases de datos.</li>
-    <li><b>Python:</b> ETL y limpieza profunda con la librería Pandas.</li>
+    <li><b>Python & R:</b> ETL y limpieza profunda con la librería Pandas.</li>
     <li><b>Excel/Power Query:</b> Automatización de procesos y limpieza de datos.</li>
   </ul>
 </div>
