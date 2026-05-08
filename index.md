@@ -58,27 +58,27 @@ layout: default
 
     <div class="card" style="border: 2px solid #276b3b; background-color: #f9fbf9; margin-bottom: 20px;">
     
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h3 style="color: #276b3b; margin-top: 0;">Banking Churn – Análisis Estadístico con R</h3>
+  <div class="card" style="border: 2px solid #276b3b; background-color: #f9fbf9; margin-bottom: 20px; position: relative;">
+  <div style="display: flex; justify-content: space-between; align-items: center; padding: 15px;">
+    <h3 style="color: #276b3b; margin: 0;">Banking Churn – Análisis Estadístico con R</h3>
     <span style="background-color: #276b3b; color: white; padding: 2px 10px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">R Language</span>
   </div>
   
-  <p style="margin: 10px 0;">Análisis exploratorio de datos (EDA) profundo para detectar patrones de abandono en clientes bancarios. 
-  <b>Stack: R (Tidyverse), R Markdown y Estadística Descriptiva.</b> 
-  Incluye matrices de correlación de Pearson y detección de valores atípicos (outliers).</p>
+  <p style="padding: 0 15px; margin: 5px 0;">Análisis exploratorio de datos (EDA) profundo para detectar patrones de abandono en clientes bancarios. 
+  <b>Stack: R (Tidyverse), R Markdown y Estadística Descriptiva.</b></p>
   
-  <div style="position: relative; overflow: hidden; padding-top: 60%; border: 1px solid #ddd; border-radius: 8px; background: white; box-shadow: inset 0 0 10px rgba(0,0,0,0.05);">
-    <iframe src="churn-analysis.html" 
+  <div style="position: relative; overflow: hidden; padding-top: 60%; border: 1px solid #ddd; margin: 10px 15px; border-radius: 8px; background: white;">
+    <iframe src="https://edin-itzep.github.io/Data_Analysis_with_R/Customer_Churn_Analysis.html" 
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
             title="Reporte de Churn en R">
     </iframe>
   </div>
 
-  <div style="margin-top: 15px; display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
-    <a href="Customer_Churn_Analysis.html" target="_blank" style="color: #276b3b; font-weight: bold; text-decoration: none; border: 1px solid #276b3b; padding: 5px 15px; border-radius: 5px; transition: 0.3s;">
+  <div style="padding: 15px; display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
+    <a href="https://edin-itzep.github.io/Data_Analysis_with_R/Customer_Churn_Analysis.html" target="_blank" style="color: #276b3b; font-weight: bold; text-decoration: none; border: 1px solid #276b3b; padding: 5px 15px; border-radius: 5px;">
       🖥️ Ver reporte a pantalla completa
     </a>
-    <a href="https://github.com/edin-itzep/Data_Analysis_with_R" target="_blank" style="color: #444; font-weight: bold; text-decoration: none; border: 1px solid #444; padding: 5px 15px; border-radius: 5px; transition: 0.3s;">
+    <a href="https://github.com/edin-itzep/Data_Analysis_with_R" target="_blank" style="color: #444; font-weight: bold; text-decoration: none; border: 1px solid #444; padding: 5px 15px; border-radius: 5px;">
       📂 Ver código en GitHub
     </a>
   </div>
