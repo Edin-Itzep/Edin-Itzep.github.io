@@ -75,7 +75,7 @@ layout: default
   </div>
 
   <div style="margin-top: 15px; display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
-    <a href="churn-analysis.html" target="_blank" style="color: #276b3b; font-weight: bold; text-decoration: none; border: 1px solid #276b3b; padding: 5px 15px; border-radius: 5px; transition: 0.3s;">
+    <a href="Customer_Churn_Analysis.html" target="_blank" style="color: #276b3b; font-weight: bold; text-decoration: none; border: 1px solid #276b3b; padding: 5px 15px; border-radius: 5px; transition: 0.3s;">
       🖥️ Ver reporte a pantalla completa
     </a>
     <a href="https://github.com/edin-itzep/Data_Analysis_with_R" target="_blank" style="color: #444; font-weight: bold; text-decoration: none; border: 1px solid #444; padding: 5px 15px; border-radius: 5px; transition: 0.3s;">
