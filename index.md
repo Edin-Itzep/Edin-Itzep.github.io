@@ -1,5 +1,5 @@
 ---
-title: Portafolio de Edin
+title: Portafolio https://github.com/Edin-Itzepde Edin
 layout: default
 ---
 
@@ -75,7 +75,7 @@ layout: default
   </div>
 
   <div style="padding: 15px; display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
-    <a href="https://edin-itzep.github.io/Data_Analysis_with_R/Customer_Churn_Analysis.html" target="_blank" style="color: #276b3b; font-weight: bold; text-decoration: none; border: 1px solid #276b3b; padding: 5px 15px; border-radius: 5px;">
+    <a href="https://github.com/Edin-Itzep/Data_Analysis_with_R/Customer_Churn_Analysis.html" target="_blank" style="color: #276b3b; font-weight: bold; text-decoration: none; border: 1px solid #276b3b; padding: 5px 15px; border-radius: 5px;">
       🖥️ Ver reporte a pantalla completa
     </a>
     <a href="https://github.com/edin-itzep/Data_Analysis_with_R" target="_blank" style="color: #444; font-weight: bold; text-decoration: none; border: 1px solid #444; padding: 5px 15px; border-radius: 5px;">
